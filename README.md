@@ -1,2 +1,7 @@
 # PowerBI-Portfolio
  
+The *AHG COMPANY ANALYSIS* provides an overview of the company's different divisions. This was created using a demo data called "Adventure Works Database".
+
+Both *SALES ENGINE* and *US REGIONAL SALES* analyze sales data. Data was obtained from DATA WORLD.COM.
+
+NOTE: To open this files(.pbix), you have to have POWER BI DESKTOP installed.
